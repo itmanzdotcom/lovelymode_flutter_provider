@@ -1,4 +1,4 @@
-# flutter_provier_1
+# lovelymode_flutter_provider
 
 Theme changer with flutter provider
 
